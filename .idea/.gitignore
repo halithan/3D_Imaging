@@ -1,5 +1,5 @@
 # Default ignored files
 /workspace.xml
 /3D_imaging.iml
-/misc.xml
-~/.idea/
+/*.xml
+/inspectionProfiles
